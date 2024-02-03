@@ -26,7 +26,7 @@ const Homepage = () => (
             <hr className="hr-line" />
             <img src = "https://res.cloudinary.com/dh9tpjqbw/image/upload/v1706960511/Screenshot_2024-02-02_000820_iiei1g.png" alt="partner img" className="partner-img"/>
         </div>
-    <div className = "home-container"></div>
+        <div className = "home-container"></div>
     <ul className="ul-list">
             <li className="list-item">
                 <h1 className="num-heading">147</h1>
