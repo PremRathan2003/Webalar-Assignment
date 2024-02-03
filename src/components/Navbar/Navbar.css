@@ -1,0 +1,64 @@
+.navbar {
+    color: #000;
+    padding: 10px 0;
+    font-family: sans-serif;
+  }
+  
+  .navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo-name-container{
+    display: flex;
+    align-items: center;
+  }
+  .logo {
+    width: 40px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px;
+  }
+  
+  .brand-name {
+    font-size: 1.2rem;
+    margin-right: 20px;
+  }
+  
+  .nav-menu {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+  }
+  
+  .nav-item {
+    margin-right: 20px;
+    font-size: 1rem;
+    color: #8A8A8A;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+  }
+  
+  .contact-btn {
+    background-color: #B795FF;
+    border: 0px;
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    border-radius: 15%;
+    align-self: center;
+
+  }
+  .logo-heading{
+    font-weight: 300;
+  }
+  
+.home{
+    color: #000;
+}
+.dot{
+    border-radius: 50%;
+    background-color: #B795FF;
+}

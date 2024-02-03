@@ -1,0 +1,51 @@
+.page4-heading{
+    font-weight: 400;
+    font-size: 38px;
+    text-align: left;
+    padding-left: 15px;
+
+}
+.page4-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.samantha-container{
+    background-color: #EEE5FF;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+}
+.samantha-img{
+    background-size: cover;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+.samntha-names-container{
+    text-align: left;
+    width: 50vw;
+}
+.samantha-heading{
+    font-size: 28px;
+    font-weight: 400;
+}
+.pag4-para-name{
+    font-weight: 200;
+    font-size: 14px;
+    margin-top: -10px;
+}
+.page4-para{
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+.number-heading{
+    font-weight: 200;
+    text-align: center;
+    font-size: 18px;
+}

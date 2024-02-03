@@ -1,0 +1,115 @@
+.home-bg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10px;
+    padding: 10px;
+}
+.home-container{
+    background-image: url("https://images.ctfassets.net/zkw0qlnf0vqv/psycom_page_fid33262_asset_33260/b3a195820ab59064c4e9ed60b8a3d7f6/Patient_with_psychotherapist");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    min-width: 50vw;
+    height: 50vh;
+    margin-top: -40px;
+}
+.row{
+    width: 90vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -15px;
+}
+.desc-container-1{
+    width: 50vw;
+    text-align: left;
+}
+.heading{
+    font-weight: 400;
+    font-size: 42px;
+}
+.paragraph{
+    font-size: 16px;
+    width: 35vw;
+}
+.rating-img{
+    width: 50px;
+    height: 50px;
+}
+.row2{
+    display: flex;
+    align-items: center;
+}
+.review-heading{
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: -10px;
+}
+.star-heading{
+    font-size: 14px;
+    padding-right: 5px;
+}
+.star{
+    width: 20px;
+    height: 20px;
+}
+.ul-list{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 20vw;
+    margin-top: -20px;
+}
+.list-item{
+    align-self: flex-end;
+    font-weight: 300;
+    width: 10vw;
+    text-align: right;
+
+}
+.num-heading{
+    font-size: 24px;
+}
+.num-paragraph{
+    font-size: 12px;
+}
+.partner-heading{
+    font-weight: 400;
+    font-size: 18px;
+}
+.partner-img{
+    width: 200px;
+}
+.last-heading{
+    text-align: left;
+    font-weight: 400;
+    font-size: 36px;
+    width: 35vw;
+    align-self: flex-start;
+    padding-left: 15px;
+}
+
+@media screen and (max-width: 576px) {
+    .home-bg{
+        width: 100vw;
+    }
+    .row{
+        
+    }
+    .desc-container-1{
+        width: 90vw;
+    }
+    .paragraph{
+        width: 90vw;
+    }
+    .heading{
+        width: 90vw;
+        font-size: 36px;
+    }
+    .home-container{
+        display: none;
+    }
+    
+}

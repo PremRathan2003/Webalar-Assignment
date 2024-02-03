@@ -1,0 +1,95 @@
+.page2-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+.ul-list-therapht{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 90vw;
+}
+.theraphy-list{
+    width: 25vw;
+    border: 1px solid blue;
+    text-align: left;
+    padding: 10px;
+
+    border-radius: 12px;
+    margin: 10px;
+}
+.theraphy-img{
+    width: 80px;
+}
+.list-heading{
+    font-weight: 400;
+    font-size: 24px;
+}
+.list-desc{
+    font-weight: 200;
+    font-size: 14px;
+}
+.discover-heading{
+    font-weight: 400;
+    font-size: 36px;
+    text-align: left;
+    padding-left: 15px;
+
+}
+.team-container{
+    display: flex;
+    align-items: center;
+}
+.team-img{
+    width: 50vw;
+}
+.team-list{
+    list-style: none;
+}
+.team-list-item{
+    display: flex;
+    align-items: center;
+    width: 40vw;
+    margin-bottom: 5px;
+}
+.team-heading{
+    font-weight: 400;
+    font-size: 18px;
+}
+.team-para{
+    font-weight: 200;
+    font-size: 12px;
+    align-self: center;
+}
+.blue-heading{
+    color: blue;
+    font-size: 28px;
+}
+.team-para2{
+font-weight: 200;
+font-size: 14px;
+padding-left: 15px;
+margin-top: -10px;
+
+}
+.team-list-item2{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.team-row{
+    display: flex;
+}
+.learn-btn{
+    background-color: #B795FF;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 12px;
+    border-width: 0px;
+    cursor: pointer;
+    justify-content: flex-start;
+}

@@ -1,0 +1,30 @@
+.page5-ul-list{
+    list-style: none;
+    display: flex;
+    margin-top: -10px;
+}
+
+.page5-list-item{
+    width: 25vw;
+
+}
+.page5-list-img{
+    width: 250px;
+    height: 280px;
+    border-radius: 12px;
+    
+}
+.page5-item-heading{
+    font-weight: 400;
+    font-size: 18px;
+}
+.page5-item-para{
+    font-weight: 200;
+    font-size: 14px;
+}
+.items-bg{
+    background-color: #EEE5FF;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
