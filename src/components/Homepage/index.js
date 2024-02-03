@@ -24,7 +24,7 @@ const Homepage = () => (
         <div className="patner-container">
             <h1 className="partner-heading">Our Partnership</h1>
             <hr className="hr-line" />
-            <img src = "https://res.cloudinary.com/dh9tpjqbw/image/upload/v1706812720/Screenshot_2024-02-02_000820_gbcofc.png" alt="partner img" className="partner-img"/>
+            <img src = "https://res.cloudinary.com/dh9tpjqbw/image/upload/v1706960511/Screenshot_2024-02-02_000820_iiei1g.png" alt="partner img" className="partner-img"/>
         </div>
     <div className = "home-container"></div>
     <ul className="ul-list">
